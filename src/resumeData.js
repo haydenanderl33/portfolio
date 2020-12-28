@@ -24,7 +24,7 @@ let resumeData = {
       ],
     "aboutme":"I am currently full-time student at Devmountain.",
     "address":"Lehi, Utah",
-    "website":"http://musclememory.me",
+    "website":"Not sure on this one",
     "education":[
       {
         "UniversityName":"The LNM Insitute of Information Technology",
