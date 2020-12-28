@@ -1,7 +1,7 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Hayden Anderl",
-    "role": "I am a Full Stack Web Develpoer",
+    "role": "I am a Full Stack Web Developer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
     "roleDescription": "I like to code",
