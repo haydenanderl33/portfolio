@@ -2,72 +2,73 @@ let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Hayden Anderl",
     "role": "I am a Full Stack Web Developer",
-    "linkedinId":"Your LinkedIn Id",
+    "linkedinId": "https://www.linkedin.com/in/hayden-anderl/",
+    "Email": "hayden.anderl33@gmail.com",
     "skypeid": "Your skypeid",
     "roleDescription": "I like to code",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/hayden-anderl/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/haydenanderl33",
           "className":"fa fa-github"
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"http://twitter.com/",
           "className":"fa fa-twitter"
         }
       ],
     "aboutme":"I am currently full-time student at Devmountain.",
     "address":"Lehi, Utah",
-    "website":"Not sure on this one",
+    // "website":"Not sure on this one",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
+        "UniversityName":"Devmountain",
+        "specialization":"Web Development",
+        "MonthOfPassing":"October",
         "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        // "Achievements":"Some Achievements"
       },
-      {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
-      }
+      // {
+      //   "UniversityName":"Some University",
+      //   "specialization":"Some specialization",
+      //   "MonthOfPassing":"Jan",
+      //   "YearOfPassing":"2018",
+      //   "Achievements":"Some Achievements"
+      // }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"KNS International",
+        "specialization":"Warehouse Supervisor/Events Team Lead",
+        "MonthOfLeaving":"October",
+        "YearOfLeaving":"2020",
+        // "Achievements":"Some Achievements"
       },
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      }
+      // {
+      //   "CompanyName":"Some Company",
+      //   "specialization":"Some specialization",
+      //   "MonthOfLeaving":"Jan",
+      //   "YearOfLeaving":"2018",
+      //   "Achievements":"Some Achievements"
+      // }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Skills",
     "skills":[
+      {
+        "skillname":"React JS"
+      },
       {
         "skillname":"HTML5"
       },
       {
         "skillname":"CSS"
       },
-      {
-        "skillname":"Reactjs"
-      }
     ],
     "portfolio":[
       {
@@ -93,13 +94,21 @@ let resumeData = {
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"React.js",
+        // "name":""
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      }
+        "description":"Node.js",
+        // "name":"Some technical guy"
+      },
+      {
+        "description":"Express",
+        // "name":"Some technical guy"
+      },
+      {
+        "description":"PostgreSQL",
+        // "name":"Some technical guy"
+      },
     ]
   }
   
