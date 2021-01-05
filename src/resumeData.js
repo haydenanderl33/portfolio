@@ -5,7 +5,7 @@ let resumeData = {
     "linkedinId": "https://www.linkedin.com/in/hayden-anderl/",
     "Email": "hayden.anderl33@gmail.com",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like to code",
+    // "roleDescription": "I like to code",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -23,7 +23,7 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently full-time student at Devmountain.",
+    "aboutme":`Devmountain Alumni. I enjoy learning, especially how to code. `,
     "address":"Lehi, Utah",
     // "website":"Not sure on this one",
     "education":[
