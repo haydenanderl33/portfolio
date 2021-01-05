@@ -1,6 +1,6 @@
 ##My portfolio built with React.js
 ## Preview
-![Preview](public/images/portpic.jpg)
+![Preview](public/images/portpic.JPG)
 
 
 
